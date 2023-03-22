@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\bin\Debug\net7.0\Exercicio1.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\bin\Debug\net7.0\Exercicio1.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\bin\Debug\net7.0\Exercicio1.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\bin\Debug\net7.0\Exercicio1.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\bin\Debug\net7.0\Exercicio1.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\obj\Debug\net7.0\Exercicio1.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\obj\Debug\net7.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\obj\Debug\net7.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\obj\Debug\net7.0\Exercicio1.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\obj\Debug\net7.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\obj\Debug\net7.0\Exercicio1.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\obj\Debug\net7.0\refint\Exercicio1.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\obj\Debug\net7.0\Exercicio1.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\obj\Debug\net7.0\Exercicio1.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 33 - Exercicios estrutura While\Exercicio1\obj\Debug\net7.0\ref\Exercicio1.dll

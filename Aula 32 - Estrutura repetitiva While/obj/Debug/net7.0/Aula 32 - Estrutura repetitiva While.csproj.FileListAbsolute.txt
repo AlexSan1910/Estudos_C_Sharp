@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\bin\Debug\net7.0\Aula 32 - Estrutura repetitiva While.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\bin\Debug\net7.0\Aula 32 - Estrutura repetitiva While.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\bin\Debug\net7.0\Aula 32 - Estrutura repetitiva While.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\bin\Debug\net7.0\Aula 32 - Estrutura repetitiva While.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\bin\Debug\net7.0\Aula 32 - Estrutura repetitiva While.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\obj\Debug\net7.0\Aula 32 - Estrutura repetitiva While.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\obj\Debug\net7.0\Aula 32 - Estrutura repetitiva While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\obj\Debug\net7.0\Aula 32 - Estrutura repetitiva While.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\obj\Debug\net7.0\Aula 32 - Estrutura repetitiva While.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\obj\Debug\net7.0\Aula 32 - Estrutura repetitiva While.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\obj\Debug\net7.0\Aula 32 - Estrutura repetitiva While.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\obj\Debug\net7.0\refint\Aula 32 - Estrutura repetitiva While.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\obj\Debug\net7.0\Aula 32 - Estrutura repetitiva While.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\obj\Debug\net7.0\Aula 32 - Estrutura repetitiva While.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 32 - Estrutura repetitiva While\obj\Debug\net7.0\ref\Aula 32 - Estrutura repetitiva While.dll
