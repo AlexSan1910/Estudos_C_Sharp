@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\bin\Debug\net7.0\Aula 27 if and else.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\bin\Debug\net7.0\Aula 27 if and else.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\bin\Debug\net7.0\Aula 27 if and else.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\bin\Debug\net7.0\Aula 27 if and else.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\bin\Debug\net7.0\Aula 27 if and else.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\obj\Debug\net7.0\Aula 27 if and else.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\obj\Debug\net7.0\Aula 27 if and else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\obj\Debug\net7.0\Aula 27 if and else.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\obj\Debug\net7.0\Aula 27 if and else.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\obj\Debug\net7.0\Aula 27 if and else.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\obj\Debug\net7.0\Aula 27 if and else.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\obj\Debug\net7.0\refint\Aula 27 if and else.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\obj\Debug\net7.0\Aula 27 if and else.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\obj\Debug\net7.0\Aula 27 if and else.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 27 if and else\obj\Debug\net7.0\ref\Aula 27 if and else.dll
