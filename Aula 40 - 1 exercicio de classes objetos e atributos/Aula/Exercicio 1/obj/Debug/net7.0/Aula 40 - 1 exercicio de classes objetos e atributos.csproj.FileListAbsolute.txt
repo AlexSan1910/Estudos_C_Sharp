@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\obj\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\obj\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\obj\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\obj\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\obj\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\bin\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\bin\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\bin\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\bin\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\bin\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\obj\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\obj\Debug\net7.0\refint\Aula 40 - 1 exercicio de classes objetos e atributos.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\obj\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\obj\Debug\net7.0\Aula 40 - 1 exercicio de classes objetos e atributos.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\obj\Debug\net7.0\ref\Aula 40 - 1 exercicio de classes objetos e atributos.dll

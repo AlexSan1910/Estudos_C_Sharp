@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\obj\Debug\net7.0\Aula 41 - Criando método.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\obj\Debug\net7.0\Aula 41 - Criando método.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\obj\Debug\net7.0\Aula 41 - Criando método.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\obj\Debug\net7.0\Aula 41 - Criando método.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\obj\Debug\net7.0\Aula 41 - Criando método.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\bin\Debug\net7.0\Aula 41 - Criando método.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\bin\Debug\net7.0\Aula 41 - Criando método.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\bin\Debug\net7.0\Aula 41 - Criando método.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\bin\Debug\net7.0\Aula 41 - Criando método.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\bin\Debug\net7.0\Aula 41 - Criando método.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\obj\Debug\net7.0\Aula 41 - Criando método.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\obj\Debug\net7.0\refint\Aula 41 - Criando método.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\obj\Debug\net7.0\Aula 41 - Criando método.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\obj\Debug\net7.0\Aula 41 - Criando método.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 41 - Criando método\obj\Debug\net7.0\ref\Aula 41 - Criando método.dll

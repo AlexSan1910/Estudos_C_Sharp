@@ -1,0 +1,5 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\Exercicio 2\obj\Debug\net7.0\Exercicio 2.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\Exercicio 2\obj\Debug\net7.0\Exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\Exercicio 2\obj\Debug\net7.0\Exercicio 2.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\Exercicio 2\obj\Debug\net7.0\Exercicio 2.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 40 - 1 exercicio de classes objetos e atributos\Aula\Exercicio 2\obj\Debug\net7.0\Exercicio 2.csproj.CoreCompileInputs.cache
