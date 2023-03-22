@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\bin\Debug\net7.0\Aula 34 - Estrutura repetitiva para.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\bin\Debug\net7.0\Aula 34 - Estrutura repetitiva para.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\bin\Debug\net7.0\Aula 34 - Estrutura repetitiva para.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\bin\Debug\net7.0\Aula 34 - Estrutura repetitiva para.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\bin\Debug\net7.0\Aula 34 - Estrutura repetitiva para.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\obj\Debug\net7.0\Aula 34 - Estrutura repetitiva para.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\obj\Debug\net7.0\Aula 34 - Estrutura repetitiva para.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\obj\Debug\net7.0\Aula 34 - Estrutura repetitiva para.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\obj\Debug\net7.0\Aula 34 - Estrutura repetitiva para.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\obj\Debug\net7.0\Aula 34 - Estrutura repetitiva para.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\obj\Debug\net7.0\Aula 34 - Estrutura repetitiva para.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\obj\Debug\net7.0\refint\Aula 34 - Estrutura repetitiva para.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\obj\Debug\net7.0\Aula 34 - Estrutura repetitiva para.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\obj\Debug\net7.0\Aula 34 - Estrutura repetitiva para.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 34 - Estrutura repetitiva para\obj\Debug\net7.0\ref\Aula 34 - Estrutura repetitiva para.dll

@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\bin\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\bin\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\bin\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\bin\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\bin\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\obj\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\obj\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\obj\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\obj\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\obj\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\obj\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\obj\Debug\net7.0\refint\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\obj\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\obj\Debug\net7.0\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 36, 37, 38 - Calculo sem Orientação a Objeto\obj\Debug\net7.0\ref\Aula 36, 37, 38 - Calculo sem Orientação a Objeto.dll
