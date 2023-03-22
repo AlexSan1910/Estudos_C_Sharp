@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\obj\Debug\net7.0\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\obj\Debug\net7.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\obj\Debug\net7.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\bin\Debug\net7.0\Exercicio2.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\bin\Debug\net7.0\Exercicio2.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\bin\Debug\net7.0\Exercicio2.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\bin\Debug\net7.0\Exercicio2.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\bin\Debug\net7.0\Exercicio2.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\obj\Debug\net7.0\Exercicio2.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\obj\Debug\net7.0\refint\Exercicio2.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\obj\Debug\net7.0\Exercicio2.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\obj\Debug\net7.0\Exercicio2.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 45 - Exercicios Classes, Atributos e Metodos\Aula\Exercicio2\obj\Debug\net7.0\ref\Exercicio2.dll
