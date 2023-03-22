@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\bin\Debug\net7.0\exercicio2.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\bin\Debug\net7.0\exercicio2.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\bin\Debug\net7.0\exercicio2.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\bin\Debug\net7.0\exercicio2.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\bin\Debug\net7.0\exercicio2.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\obj\Debug\net7.0\exercicio2.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\obj\Debug\net7.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\obj\Debug\net7.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\obj\Debug\net7.0\exercicio2.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\obj\Debug\net7.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\obj\Debug\net7.0\exercicio2.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\obj\Debug\net7.0\refint\exercicio2.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\obj\Debug\net7.0\exercicio2.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\obj\Debug\net7.0\exercicio2.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 29 Exercicios de estrutura de condições\Exercicios\exercicio2\obj\Debug\net7.0\ref\exercicio2.dll
