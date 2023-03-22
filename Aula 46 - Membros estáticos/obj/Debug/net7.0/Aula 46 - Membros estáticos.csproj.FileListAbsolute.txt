@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\bin\Debug\net7.0\Aula 46 - Membros estáticos.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\bin\Debug\net7.0\Aula 46 - Membros estáticos.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\bin\Debug\net7.0\Aula 46 - Membros estáticos.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\bin\Debug\net7.0\Aula 46 - Membros estáticos.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\bin\Debug\net7.0\Aula 46 - Membros estáticos.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\obj\Debug\net7.0\Aula 46 - Membros estáticos.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\obj\Debug\net7.0\Aula 46 - Membros estáticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\obj\Debug\net7.0\Aula 46 - Membros estáticos.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\obj\Debug\net7.0\Aula 46 - Membros estáticos.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\obj\Debug\net7.0\Aula 46 - Membros estáticos.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\obj\Debug\net7.0\Aula 46 - Membros estáticos.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\obj\Debug\net7.0\refint\Aula 46 - Membros estáticos.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\obj\Debug\net7.0\Aula 46 - Membros estáticos.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\obj\Debug\net7.0\Aula 46 - Membros estáticos.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 46 - Membros estáticos\obj\Debug\net7.0\ref\Aula 46 - Membros estáticos.dll
