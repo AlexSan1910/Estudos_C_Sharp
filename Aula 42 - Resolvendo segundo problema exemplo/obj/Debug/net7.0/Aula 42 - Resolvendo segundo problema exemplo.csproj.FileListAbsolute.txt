@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\bin\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\bin\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\bin\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\bin\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\bin\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\obj\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\obj\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\obj\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\obj\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\obj\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\obj\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\obj\Debug\net7.0\refint\Aula 42 - Resolvendo segundo problema exemplo.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\obj\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\obj\Debug\net7.0\Aula 42 - Resolvendo segundo problema exemplo.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 42 - Resolvendo segundo problema exemplo\obj\Debug\net7.0\ref\Aula 42 - Resolvendo segundo problema exemplo.dll
