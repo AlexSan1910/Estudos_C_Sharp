@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\bin\Debug\net7.0\Aula.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\bin\Debug\net7.0\Aula.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\bin\Debug\net7.0\Aula.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\bin\Debug\net7.0\Aula.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\bin\Debug\net7.0\Aula.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\obj\Debug\net7.0\Aula.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\obj\Debug\net7.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\obj\Debug\net7.0\Aula.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\obj\Debug\net7.0\Aula.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\obj\Debug\net7.0\Aula.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\obj\Debug\net7.0\Aula.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\obj\Debug\net7.0\refint\Aula.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\obj\Debug\net7.0\Aula.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\obj\Debug\net7.0\Aula.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula\obj\Debug\net7.0\ref\Aula.dll
