@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\obj\Debug\net7.0\Aula 48 - Exercicios Propostos.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\obj\Debug\net7.0\Aula 48 - Exercicios Propostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\obj\Debug\net7.0\Aula 48 - Exercicios Propostos.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\obj\Debug\net7.0\Aula 48 - Exercicios Propostos.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\obj\Debug\net7.0\Aula 48 - Exercicios Propostos.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\bin\Debug\net7.0\Aula 48 - Exercicios Propostos.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\bin\Debug\net7.0\Aula 48 - Exercicios Propostos.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\bin\Debug\net7.0\Aula 48 - Exercicios Propostos.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\bin\Debug\net7.0\Aula 48 - Exercicios Propostos.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\bin\Debug\net7.0\Aula 48 - Exercicios Propostos.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\obj\Debug\net7.0\Aula 48 - Exercicios Propostos.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\obj\Debug\net7.0\refint\Aula 48 - Exercicios Propostos.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\obj\Debug\net7.0\Aula 48 - Exercicios Propostos.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\obj\Debug\net7.0\Aula 48 - Exercicios Propostos.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 48 - Exercicios Propostos\obj\Debug\net7.0\ref\Aula 48 - Exercicios Propostos.dll
