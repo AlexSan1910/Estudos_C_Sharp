@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\obj\Debug\net7.0\Aula 55 - Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\obj\Debug\net7.0\Aula 55 - Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\obj\Debug\net7.0\Aula 55 - Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\obj\Debug\net7.0\Aula 55 - Encapsulamento.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\obj\Debug\net7.0\Aula 55 - Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\bin\Debug\net7.0\Aula 55 - Encapsulamento.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\bin\Debug\net7.0\Aula 55 - Encapsulamento.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\bin\Debug\net7.0\Aula 55 - Encapsulamento.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\bin\Debug\net7.0\Aula 55 - Encapsulamento.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\bin\Debug\net7.0\Aula 55 - Encapsulamento.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\obj\Debug\net7.0\Aula 55 - Encapsulamento.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\obj\Debug\net7.0\refint\Aula 55 - Encapsulamento.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\obj\Debug\net7.0\Aula 55 - Encapsulamento.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\obj\Debug\net7.0\Aula 55 - Encapsulamento.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 55 - Encapsulamento\obj\Debug\net7.0\ref\Aula 55 - Encapsulamento.dll
