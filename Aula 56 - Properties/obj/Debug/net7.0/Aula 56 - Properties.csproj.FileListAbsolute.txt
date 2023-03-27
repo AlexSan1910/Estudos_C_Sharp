@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\bin\Debug\net7.0\Aula 56 - Properties.exe
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\bin\Debug\net7.0\Aula 56 - Properties.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\bin\Debug\net7.0\Aula 56 - Properties.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\bin\Debug\net7.0\Aula 56 - Properties.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\bin\Debug\net7.0\Aula 56 - Properties.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\obj\Debug\net7.0\Aula 56 - Properties.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\obj\Debug\net7.0\Aula 56 - Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\obj\Debug\net7.0\Aula 56 - Properties.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\obj\Debug\net7.0\Aula 56 - Properties.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\obj\Debug\net7.0\Aula 56 - Properties.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\obj\Debug\net7.0\Aula 56 - Properties.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\obj\Debug\net7.0\refint\Aula 56 - Properties.dll
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\obj\Debug\net7.0\Aula 56 - Properties.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\obj\Debug\net7.0\Aula 56 - Properties.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Curso C#\Aula 56 - Properties\obj\Debug\net7.0\ref\Aula 56 - Properties.dll
